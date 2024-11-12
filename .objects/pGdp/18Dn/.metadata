@@ -1,0 +1,13 @@
+﻿{
+  "Name": "1.0.0",
+  "Type": "AppVersion",
+  "Id": "18Dn6kywBU-eG1BCdtogAA",
+  "Reference": "KurlyfSU60eDizlly6mYsw/18Dn6kywBU-eG1BCdtogAA",
+  "ParentRef": "KurlyfSU60eDizlly6mYsw/pGdpcJVnZU6D2T-jetjxtw",
+  "Created": "2024-10-08T16:42:29.3024232Z",
+  "Updated": "2024-10-08T16:42:29.3024232Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
